@@ -1,0 +1,201 @@
+{
+	"linklist1": {
+		"editions": [
+			{
+				"url" 		: "link1.html",
+				"linktext" 	: "Linktext 1",
+				"title" 	: "Gehe zu Linktext 1"
+			},
+			{
+				"url" 		: "link2.html",
+				"linktext" 	: "Linktext 2",
+				"title" 	: "Gehe zu Linktext 2"
+			},
+			{
+				"url" 		: "link3.html",
+				"linktext" 	: "Linktext 3",
+				"title" 	: "Gehe zu Linktext 3"
+			},
+			{
+				"url" 		: "link4.html",
+				"linktext" 	: "Linktext 4",
+				"title" 	: "Gehe zu Linktext 4"
+			},
+			{
+				"url" 		: "link5.html",
+				"linktext" 	: "Linktext 5",
+				"title" 	: "Gehe zu Linktext 5"
+			},
+			{
+				"url" 		: "link6.html",
+				"linktext" 	: "Linktext 6",
+				"title" 	: "Gehe zu Linktext 6"
+			},
+			{
+				"url" 		: "link7.html",
+				"linktext" 	: "Linktext 7",
+				"title" 	: "Gehe zu Linktext 7"
+			},
+			{
+				"url" 		: "link8.html",
+				"linktext" 	: "Linktext 8",
+				"title" 	: "Gehe zu Linktext 8"
+			}
+		]
+	},
+
+	"linklist2": {
+		"editions": [
+			{
+				"url" 		: "link1.html",
+				"linktext" 	: "Linktext 1",
+				"title" 	: "Gehe zu Linktext 1"
+			},
+			{
+				"url" 		: "link2.html",
+				"linktext" 	: "Linktext 2",
+				"title" 	: "Gehe zu Linktext 2"
+			},
+			{
+				"url" 		: "link3.html",
+				"linktext" 	: "Linktext 3",
+				"title" 	: "Gehe zu Linktext 3"
+			},
+			{
+				"url" 		: "link4.html",
+				"linktext" 	: "Linktext 4",
+				"title" 	: "Gehe zu Linktext 4"
+			},
+			{
+				"url" 		: "link5.html",
+				"linktext" 	: "Linktext 5",
+				"title" 	: "Gehe zu Linktext 5"
+			},
+			{
+				"url" 		: "link6.html",
+				"linktext" 	: "Linktext 6",
+				"title" 	: "Gehe zu Linktext 6"
+			},
+			{
+				"url" 		: "link7.html",
+				"linktext" 	: "Linktext 7",
+				"title" 	: "Gehe zu Linktext 7"
+			},
+			{
+				"url" 		: "link8.html",
+				"linktext" 	: "Linktext 8",
+				"title" 	: "Gehe zu Linktext 8"
+			}
+		]
+	},
+
+	"linklist3": {
+		"editions": [
+			{
+				"url" 		: "link1.html",
+				"linktext" 	: "Linktext 1",
+				"title" 	: "Gehe zu Linktext 1"
+			},
+			{
+				"url" 		: "link2.html",
+				"linktext" 	: "Linktext 2",
+				"title" 	: "Gehe zu Linktext 2"
+			},
+			{
+				"url" 		: "link3.html",
+				"linktext" 	: "Linktext 3",
+				"title" 	: "Gehe zu Linktext 3"
+			},
+			{
+				"url" 		: "link4.html",
+				"linktext" 	: "Linktext 4",
+				"title" 	: "Gehe zu Linktext 4"
+			},
+			{
+				"url" 		: "link5.html",
+				"linktext" 	: "Linktext 5",
+				"title" 	: "Gehe zu Linktext 5"
+			},
+			{
+				"url" 		: "link6.html",
+				"linktext" 	: "Linktext 6",
+				"title" 	: "Gehe zu Linktext 6"
+			},
+			{
+				"url" 		: "link7.html",
+				"linktext" 	: "Linktext 7",
+				"title" 	: "Gehe zu Linktext 7"
+			},
+			{
+				"url" 		: "link8.html",
+				"linktext" 	: "Linktext 8",
+				"title" 	: "Gehe zu Linktext 8"
+			}
+		]
+	},
+
+	"linklist4": {
+		"editions": [
+			{
+				"url" 		: "link1.html",
+				"linktext" 	: "Linktext 1",
+				"title" 	: "Gehe zu Linktext 1"
+			},
+			{
+				"url" 		: "link2.html",
+				"linktext" 	: "Linktext 2",
+				"title" 	: "Gehe zu Linktext 2"
+			},
+			{
+				"url" 		: "link3.html",
+				"linktext" 	: "Linktext 3",
+				"title" 	: "Gehe zu Linktext 3"
+			},
+			{
+				"url" 		: "link4.html",
+				"linktext" 	: "Linktext 4",
+				"title" 	: "Gehe zu Linktext 4"
+			},
+			{
+				"url" 		: "link5.html",
+				"linktext" 	: "Linktext 5",
+				"title" 	: "Gehe zu Linktext 5"
+			},
+			{
+				"url" 		: "link6.html",
+				"linktext" 	: "Linktext 6",
+				"title" 	: "Gehe zu Linktext 6"
+			},
+			{
+				"url" 		: "link7.html",
+				"linktext" 	: "Linktext 7",
+				"title" 	: "Gehe zu Linktext 7"
+			},
+			{
+				"url" 		: "link8.html",
+				"linktext" 	: "Linktext 8",
+				"title" 	: "Gehe zu Linktext 8"
+			}
+		]
+	},
+
+	"buttonlink1": {
+		"editions": [
+			{
+				"url" 		: "button1.html",
+				"linktext" 	: "Buttonlink1",
+				"title" 	: "Gehe zu Buttonlink1"
+			}
+		]
+	},
+
+	"buttonlink2": {
+		"editions": [
+			{
+				"url" 		: "button2.html",
+				"linktext" 	: "Buttonlink2",
+				"title" 	: "Gehe zu Buttonlink2"
+			}
+		]
+	}
+}
